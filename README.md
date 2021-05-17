@@ -1,4 +1,6 @@
-<h1 align="center">HOLA 👋, I'm Debasmita Samadder</h1>
+<h1 align="center">I am Debasmita Samadder</h1>
+<img align="right" height="100" width="200" alt="" src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" />
+
 <h3 align="center">A passionate, focused, determined software developer who loves exploring new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tech-deb&label=Profile%20views&color=0e75b6&style=flat" alt="tech-deb" /> </p>
@@ -6,6 +8,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tech-deb" alt="tech-deb" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/debasmitasamad5" target="blank"><img src="https://img.shields.io/twitter/follow/debasmitasamad5?logo=twitter&style=for-the-badge" alt="debasmitasamad5" /></a> </p>
+<img align="right" height="300" width="425" alt="" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" />
+
 
 - 🔭 I’m currently working on **Web Development Projects**
 
