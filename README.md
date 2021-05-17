@@ -25,6 +25,8 @@
 
 - ⚡ Fun fact **I can spend my whole day just watching good movies and web series😂**
 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31co3gc6umaairyhs42ceuxvndou)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/debasmitasamad5" target="blank"><img align="center" src="icons8-twitter.gif" alt="debasmitasamad5" height="40" width="40" /></a>
