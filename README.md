@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/debasmitasamad5" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_1080.png" alt="debasmitasamad5" height="40" width="40" /></a>
+<a href="https://twitter.com/debasmitasamad5" target="blank"><img align="center" src="icons8-twitter.gif" alt="debasmitasamad5" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/debasmita25" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="debasmita25" height="30" width="40" /></a>
 <a href="https://fb.com/debasmita25" target="blank"><img align="center" src="https://img.icons8.com/color/240/000000/facebook.png" alt="debasmita25" height="40" width="40" /></a>
 <a href="https://instagram.com/debasmita_2503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="debasmita_2503" height="30" width="40" /></a>
